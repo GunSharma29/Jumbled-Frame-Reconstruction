@@ -1,0 +1,14 @@
+Start Time: Sat Nov  1 22:15:13 2025
+End Time: Sat Nov  1 22:15:28 2025
+Elapsed Time: 14.91 seconds
+
+Device Used: CPU
+Total Frames Processed: 300
+Frame Scale: 0.5
+Model Used: ResNet50 (pretrained)
+Embedding Cache: Disabled
+Reconstruction Algorithm: Greedy Ordering + Local Refinement
+
+Status:  Reconstruction Completed Successfully
+Output Video: reconstructed_final.mp4
+Output FPS: 30
